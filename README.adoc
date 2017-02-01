@@ -1,0 +1,7 @@
+= README
+Thomas Phillips <tom@tsphillips.net>
+
+Diagnostic information for Mac OS X.
+Used for security and for troubleshooting.
+
+_Caveat utilitor_.
